@@ -6,6 +6,6 @@ function flaeche(){
 	echo "Flaeche: $fl"
 }
 
-flaeche 40 25
+flaeche 50 15
 flaeche $1 $2
 flaeche 5 $1
